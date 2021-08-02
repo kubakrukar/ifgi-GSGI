@@ -32,7 +32,10 @@ In order to edit any wiki page click the `EDIT` button (top-right). Use [Markdow
 
 `This is an example of [new page]. It will create a new wiki subpage titled "new page".`
 
-In order to upload a file and link to it, go to the [main repository](https://github.com/kubakrukar/ifgi-GSGI) click on `Add file -> Upload files`, drag&drop your file onto the box and click `Commit changes`. The file will show up on the list in the main repository. Copy the link to this file. Then, go to the wiki page where you want to link to it, and do it like this:
-
-And some slides are [here](https://github.com/kubakrukar/ifgi-GSGI/blob/main/YOUR_FILE.pdf).
+In order to upload a file and link to it, 
+- Go to the [main repository](https://github.com/kubakrukar/ifgi-GSGI) 
+- Click on `Add file -> Upload files`
+- Drag&drop your file onto the box and click `Commit changes`. The file will show up on the list in the main repository. 
+- Copy the link to this file. Then, go to the wiki page where you want to link to it, and do it like this:
+`...and some slides are [here](https://github.com/kubakrukar/ifgi-GSGI/blob/main/YOUR_FILE.pdf).`
 
