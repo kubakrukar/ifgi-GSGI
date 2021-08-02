@@ -1,14 +1,14 @@
-# Graduate School of Geoinformatics from ifgi: Institute of Geoinformatics WWU Münster
+# Graduate School for Geoinformatics at ifgi
 
-Welcome to the Graduate School of Geoinformatics!
+Welcome to the Graduate School for Geoinformatics!
 
 The goal of this repository is to share relevant information for the GSGI journey. This is a collaborative iniciative, so feel free to add material that you have previously explored. Check the How to contribute section for more details
 
 In these wiki pages we collect materials used and gathered during [GSGI meetings at ifgi](https://www.uni-muenster.de/Geoinformatics/en/Studies/study_programs/PhD/structure.html).
 
-## Your GSGI journey:
+## Getting started:
 
-- Check the general requirements for success in the Geoinformatics graduate school in the [Wiki: First Steps](https://github.com/kubakrukar/ifgi-GSGI/wiki)
+- Check the first steps for a successful start [Wiki: First Steps](https://github.com/kubakrukar/ifgi-GSGI/wiki)
 
 ## Material
 
