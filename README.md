@@ -15,7 +15,7 @@ In these wiki pages we collect materials used and gathered during [GSGI meetings
 - [GSGI requirements](https://github.com/kubakrukar/ifgi-GSGI/wiki/GSGI-Requirements)
 - [Conferences]()
 - [Summer Schools](https://github.com/kubakrukar/ifgi-GSGI/wiki/Find-a-summer-school)
-- [Previous GSGI Proposals](https://github.com/kubakrukar/docs/Proposals)
+- [Previous GSGI Proposals](https://github.com/kubakrukar/ifgi-GSGI/tree/main/docs/Proposals)
 - [GSGI Meetings presentations, insights and discussions](https://github.com/kubakrukar/ifgi-GSGI/wiki)
 - [WWU Graduate Centre](https://www.uni-muenster.de/GraduateCentre/en/)
 
