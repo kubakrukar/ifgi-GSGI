@@ -12,7 +12,7 @@ In these wiki pages we collect materials used and gathered during [GSGI meetings
 
 ## Material
 
-- [GSGI requirements](https://github.com/kubakrukar/ifgi-GSGI/wiki/GSGI-Requirements)
+- [GSGI requirements](https://github.com/kubakrukar/ifgi-GSGI/wiki/GSGI-program-structure-and-requirements)
 - [Conferences]()
 - [Summer Schools](https://github.com/kubakrukar/ifgi-GSGI/wiki/Find-a-summer-school)
 - [Previous GSGI Proposals](https://github.com/kubakrukar/ifgi-GSGI/tree/main/docs/Proposals)
