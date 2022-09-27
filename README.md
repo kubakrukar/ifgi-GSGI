@@ -8,7 +8,7 @@ In these wiki pages we collect materials used and gathered during [GSGI meetings
 
 ## Getting started:
 
-- Check the first steps for a successful start [Wiki: First Steps](https://github.com/kubakrukar/ifgi-GSGI/wiki)
+- Check the first steps for a successful start [Wiki: First Steps](https://github.com/kubakrukar/ifgi-GSGI/wiki/GSGI-program-structure-and-requirements)
 
 ## Material
 
