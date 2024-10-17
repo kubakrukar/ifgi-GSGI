@@ -4,26 +4,7 @@ Welcome to the Graduate School for Geoinformatics!
 
 The goal of this repository is to share relevant information for the GSGI journey. This is a collaborative iniciative, so feel free to add material that you have previously explored. Check the How to contribute section for more details
 
-In these wiki pages we collect materials used and gathered during [GSGI meetings at ifgi](https://www.uni-muenster.de/Geoinformatics/en/Studies/study_programs/PhD/structure.html).
-
-## Getting started:
-
-- Check the first steps for a successful start [Wiki: First Steps](https://github.com/kubakrukar/ifgi-GSGI/wiki/First-steps)
-
-## Material
-
-- [GSGI requirements](https://github.com/kubakrukar/ifgi-GSGI/wiki/GSGI-program-structure-and-requirements)
-- [Conferences]()
-- [Learning resources from University and external](https://github.com/kubakrukar/ifgi-GSGI/wiki/Learning-resources)
-- [Summer Schools](https://github.com/kubakrukar/ifgi-GSGI/wiki/Find-a-summer-school)
-- [Previous GSGI Proposals](https://github.com/kubakrukar/ifgi-GSGI/tree/main/docs/Proposals)
-- [GSGI Meetings presentations, insights and discussions](https://github.com/kubakrukar/ifgi-GSGI/wiki)
-- [WWU Graduate Centre](https://www.uni-muenster.de/GraduateCentre/en/)
-
-## Directory
-- The list of previously discussed topics is maintained [in this file](http://go.wwu.de/k8eze).
-- Click [here](https://github.com/kubakrukar/ifgi-GSGI/wiki) to go to wiki.
-
+Click [here](https://github.com/kubakrukar/ifgi-GSGI/wiki) to go to wiki.
 
 ## How to contribute to this page
 
